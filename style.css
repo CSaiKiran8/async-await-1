@@ -1,0 +1,14 @@
+body {
+   background-color: rgba(80, 139, 206, 0.274);
+}
+
+#image {
+   width: 500px;
+   height: 500px; 
+}
+
+#fox_result {
+   font-size: 30px;
+   font-family: "Lucida Console", "Courier New", monospace;
+}  
+
